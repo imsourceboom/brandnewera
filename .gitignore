@@ -11,7 +11,7 @@ src/
 
 
 #gulp
-# gulp/
+gulp/
 # gulpfile.babel.js
 
 
